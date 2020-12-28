@@ -2,3 +2,5 @@
 __py__cache__/
 unity-environment.log
 .idea
+.~*
+*.odt
